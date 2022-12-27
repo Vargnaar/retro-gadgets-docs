@@ -1,7 +1,7 @@
 # Wifi
 <img src="https://docs.retrogadgets.game/api/modules/Wifi.png" width="200" align="right">
 
-Wifi is a chip that allows you to send and receive data other the internet. It can only be placed on the edge of a gadget and has two indicators. The one on the left activates when something is being uploaded, and the one on the right activates when something is being downloaded.
+Wifi is a chip that allows you to send and receive data over the internet. It can only be placed on the edge of a gadget and has two indicators. The one on the left activates when something is being uploaded, and the one on the right activates when something is being downloaded.
 
 **⚠️ This page is incomplete and unverified.**
 
